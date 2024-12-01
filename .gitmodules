@@ -1,0 +1,6 @@
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/krohit2552/knn-prediction-application.git
+[submodule "knn-prediction-application"]
+	path = knn-prediction-application
+	url = https://github.com/krohit2552/knn-prediction-application.git
